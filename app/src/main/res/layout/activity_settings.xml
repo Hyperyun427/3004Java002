@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#C628F1C9"
+    android:background="#FFFFFF"
     tools:context=".SettingsActivity">
 
     <ImageView
@@ -67,7 +67,7 @@
         android:layout_marginTop="80dp"
         android:layout_marginEnd="160dp"
         android:layout_marginBottom="96dp"
-        android:background="@drawable/roundbutton"
+        android:background="@color/background_default_Color"
         android:onClick="launchActivity"
         android:text="Start"
         app:layout_constraintBottom_toBottomOf="parent"

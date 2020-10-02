@@ -35,5 +35,9 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
 
+    /*nav add library*/
+    //noinspection GradleCompatible
+    implementation 'com.android.support:design:28.1.1'
+
 
 }

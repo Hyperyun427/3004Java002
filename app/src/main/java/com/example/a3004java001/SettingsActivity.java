@@ -57,7 +57,7 @@ public class SettingsActivity extends AppCompatActivity {
     public void launchActivity(View x){
 
         Intent i = new Intent(this,Second_page_skip_input.class);
-     /* test data transfer
+    /*
        String input = ((TextView)findViewById(R.id.source)).getText().toString();
        i.putExtra("COOL",input);*/
 

@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Meditate_info_page"></activity>
+        <activity android:name=".Nav_page" />
         <activity android:name=".Second_page_skip_input" />
         <activity
             android:name=".SettingsActivity"
