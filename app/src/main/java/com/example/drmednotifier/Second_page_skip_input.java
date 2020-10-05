@@ -1,34 +1,13 @@
-package com.example.a3004java001;
+package com.example.drmednotifier;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.Fragment;
 
-import android.app.FragmentManager;
-import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
-
-import static com.example.a3004java001.R.id.fragment_container_view_tag;
 
 public class Second_page_skip_input extends AppCompatActivity {
-    EditText nameTxt;
-
-/*
-    private Fragment createCustomFragment(){
-
-        Bundle bundle = new Bundle();
-        bundle.putString(MY_CUSTOM_FRAGMENT_KEY,"Yun Huang");
-
-        Frag_Selfreport frag_selfreport = new Frag_Selfreport();
-        frag_selfreport.setArguments(bundle);
-        return frag_selfreport;
-
-
-    }*/
 
 
 

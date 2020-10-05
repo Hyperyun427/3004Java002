@@ -1,4 +1,4 @@
-package com.example.a3004java001;
+package com.example.drmednotifier;
 
 import android.content.Context;
 

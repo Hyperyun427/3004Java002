@@ -36,8 +36,7 @@ dependencies {
 
 
     /*nav add library*/
-    //noinspection GradleCompatible
-    implementation 'com.android.support:design:28.1.1'
+
 
 
 }

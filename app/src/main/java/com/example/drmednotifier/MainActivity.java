@@ -1,13 +1,11 @@
-package com.example.a3004java001;
+package com.example.drmednotifier;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -27,17 +25,7 @@ public class MainActivity extends AppCompatActivity {
         ((Button)findViewById(R.id.main_button)).setText("new new disable");
 
 
-        /*
-        View x =findViewById(R.id.main_button);
-        x.setEnabled(false);
-        Button button = (Button) x;
-        button.setText("++");
-        */
-
-     /*   y.setEnabled(false);
-        Log.d("true","added");
-        Button b = (Button) y;
-        b.setText("button disabled");*/
+        
     }
 
     public void handleText(View v){
